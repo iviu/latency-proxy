@@ -27,7 +27,7 @@
 ## installation
 #### you'll need Go 1.21 or newer.
 ```
-git clone https://github.com/aqeu/latency-proxy.git
+git clone https://github.com/iviu/latency-proxy.git
 go mod init proxy
 go get github.com/oschwald/geoip2-golang
 go get golang.org/x/time/rate
